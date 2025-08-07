@@ -5,8 +5,8 @@
 
 > (Adicione imagens reais da planilha se desejar. Exemplo abaixo:)
 
-![Simulação](<img width="1584" height="396" alt="InvestPlan" src="https://github.com/user-attachments/assets/859b1653-61ce-4d9d-af8a-6b7cd6e89aef" />
-)
+![Simulação](<img src="<img width="1584" height="396" alt="InvestPlan" src="https://github.com/user-attachments/assets/8323c36d-8abb-4e5c-a9d2-ff3241dc1442" />
+" width="800" alt="Simulação da planilha">)
 
 ---
 
