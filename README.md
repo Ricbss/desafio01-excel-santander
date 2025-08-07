@@ -1,12 +1,9 @@
 
 ---
 
-## 🖼 Capturas de Tela
+## 🖼 Santander - Excel com Inteligência Artificial
 
-> (Adicione imagens reais da planilha se desejar. Exemplo abaixo:)
-
-![Simulação](<img src="<img width="1584" height="396" alt="InvestPlan" src="https://github.com/user-attachments/assets/8323c36d-8abb-4e5c-a9d2-ff3241dc1442" />
-" width="800" alt="Simulação da planilha">)
+(<img src="<img width="1584" height="396" alt="InvestPlan" src="https://github.com/user-attachments/assets/8323c36d-8abb-4e5c-a9d2-ff3241dc1442" />)
 
 ---
 
