@@ -31,6 +31,6 @@
 ## 🚀 Sobre Mim
 
 Desenvolvido por **Ricardo Barreto**, entusiasta de tecnologia, dados e finanças.  
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ricardobarretoss/) ou explore outros projetos no meu [GitHub](https://github.com/seuusuario).
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ricardobarretoss/) ou explore outros projetos no meu [GitHub]([https://github.com/seuusuario](https://github.com/Ricbss)).
 
 
