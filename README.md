@@ -3,7 +3,7 @@
 
 ## 🖼 Santander - Excel com Inteligência Artificial
 
-(<img src="<img width="1584" height="396" alt="InvestPlan" src="https://github.com/user-attachments/assets/8323c36d-8abb-4e5c-a9d2-ff3241dc1442" />)
+<img width="1584" height="396" alt="InvestPlan" src="https://github.com/user-attachments/assets/8323c36d-8abb-4e5c-a9d2-ff3241dc1442" />
 
 ---
 
@@ -33,23 +33,4 @@
 Desenvolvido por **Ricardo Barreto**, entusiasta de tecnologia, dados e finanças.  
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ricardobarretoss/) ou explore outros projetos no meu [GitHub](https://github.com/seuusuario).
 
----
-
-## 📬 Entrega
-
-Este repositório é parte do desafio da formação **Santander - Excel com Inteligência Artificial** da DIO.
-
-✅ Projeto entregue via botão “Entregar Projeto”  
-📎 Link do repositório submetido: **[Cole aqui o link do seu GitHub]**
-
----
-
-## 📚 Recursos Complementares
-
-- [Documentação Oficial do GitHub](https://docs.github.com/)
-- [Guia de Markdown](https://guides.github.com/features/mastering-markdown/)
-- [GitHub Quick Start](https://github.com/digitalinnovationone/github-primeiros-passos)
-- [Formação GitHub Certification](https://gitbook.io)
-
----
 
